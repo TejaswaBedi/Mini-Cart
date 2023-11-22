@@ -1,0 +1,10 @@
+.App {
+  margin-top: 50px;
+}
+
+.buttoni {
+  position: absolute;
+  margin-top: -35px;
+  font-size: 20px;
+  right: 5px;
+}
